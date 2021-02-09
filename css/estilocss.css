@@ -1,0 +1,27 @@
+/*<!--contenido main cajas-->*/
+.rotulobox1 {
+  background-color: #1d1d1f;
+  flex: 1;
+  padding: 100px;
+  margin: 0px;
+  color: #00E8FF;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 58px;
+  font-family: "PT Sans Narrow", sans-serif;
+  text-align: center;
+  text-transform: uppercase; }
+
+.rotulobox2 {
+  flex: 4;
+  padding: 5rem;
+  margin: 1px;
+  text-align: center;
+  color: black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  font-family: "PT Sans Narrow", sans-serif; }
+
+.botonlaquiero {
+  margin-top: 0px; }

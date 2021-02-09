@@ -1,0 +1,47 @@
+$color1: #1d1d1f;
+$color2: #FF08A1;
+$color3: #00E8FF;
+$color4: #E5FF08;
+
+
+$fuente: 'PT Sans Narrow', sans-serif;
+		 
+
+
+
+
+/*<!--contenido main cajas-->*/
+.rotulobox1{
+	background-color: $color1;
+	flex:1;
+	padding: 100px;
+	margin:0px;
+
+	color: $color3;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	font-family: $fuente;
+
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.rotulobox2{ 
+
+    flex:4;
+	padding: 5rem;
+	margin:1px; 
+	text-align: center;
+
+	color: black;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	font-family: $fuente;
+	
+}
+.botonlaquiero{
+	margin-top: 0px;
+	
+}
